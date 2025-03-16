@@ -23,7 +23,7 @@ git clone https://github.com/KULLANICI_ADIN/weather-app.git
 3. Şehir ismi gir ve hava durumunu gör!
 
 ## 📷 Ekran Görüntüsü
-![Hava Durumu Uygulaması](https://github.com/user-attachments/assets/50abd907-b918-4b9f-ac40-9f8e4976844)
+![Hava Durumu Uygulaması](assets/screenshot.JPG)
 
 🚀 Proje ile ilgili geliştirme önerileriniz varsa katkıda bulunun!
 🌟 Eğer projeyi beğendiyseniz, GitHub’da ⭐ vererek destek olabilirsiniz!
