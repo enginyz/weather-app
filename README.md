@@ -31,11 +31,11 @@ npx vite
 💡 Gelecekteki Geliştirme Fikirleri
 📌 Öneriler:
 
-🌙 Gece modu eklenebilir.
-🎨 Daha şık bir UI tasarlanabilir.
-📍 Konum bazlı hava durumu eklenebilir.
-📊 Hava durumu geçmişi eklenebilir.
+- 🌙 Gece modu eklenebilir.
+- 🎨 Daha şık bir UI tasarlanabilir.
+- 📍 Konum bazlı hava durumu eklenebilir.
+- 📊 Hava durumu geçmişi eklenebilir.
 
-🚀 Proje ile ilgili geliştirme önerileriniz varsa katkıda bulunun!
+🚀 Proje ile ilgili geliştirme önerileriniz varsa katkıda bulunun!␣␣
 🌟 Eğer projeyi beğendiyseniz, GitHub’da ⭐ vererek destek olabilirsiniz!
 ---
