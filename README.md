@@ -28,7 +28,8 @@ npx vite
 ## 📷 Ekran Görüntüsü
 ![Hava Durumu Uygulaması](assets/screenshot.JPG)
 
-💡 Gelecekteki Geliştirme Fikirleri
+## 💡 Gelecekteki Geliştirme Fikirleri  
+
 📌 Öneriler:
 
 - 🌙 Gece modu eklenebilir.
@@ -36,6 +37,8 @@ npx vite
 - 📍 Konum bazlı hava durumu eklenebilir.
 - 📊 Hava durumu geçmişi eklenebilir.
 
-🚀 Proje ile ilgili geliştirme önerileriniz varsa katkıda bulunun!␣␣
-🌟 Eğer projeyi beğendiyseniz, GitHub’da ⭐ vererek destek olabilirsiniz!
+## 🚀 Proje ile ilgili geliştirme önerileriniz varsa katkıda bulunun!  
+
+## 🌟 Eğer projeyi beğendiyseniz, GitHub’da ⭐ vererek destek olabilirsiniz!  
+
 ---
