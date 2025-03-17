@@ -15,15 +15,27 @@ Bu proje, **JavaScript + OpenWeatherMap API** kullanarak geliştirilmiş bir hav
 - Git & GitHub
 
 ## 🛠️ Kurulum ve Kullanım
-**Projeyi klonla:**
-git clone https://github.com/KULLANICI_ADIN/weather-app.git
+Projeyi klonla ve çalıştır:
+```sh
+git clone https://github.com/enginyz/weather-app.git
+cd weather-app
+npm install
+npx vite
+```
 
-1. VS Code ile aç.
-2. index.html dosyasını çalıştır (Live Server önerilir).
-3. Şehir ismi gir ve hava durumunu gör!
+✅ Şehir ismi gir ve hava durumunu gör!
 
 ## 📷 Ekran Görüntüsü
 ![Hava Durumu Uygulaması](assets/screenshot.JPG)
 
+💡 Gelecekteki Geliştirme Fikirleri
+📌 Öneriler:
+
+🌙 Gece modu eklenebilir.
+🎨 Daha şık bir UI tasarlanabilir.
+📍 Konum bazlı hava durumu eklenebilir.
+📊 Hava durumu geçmişi eklenebilir.
+
 🚀 Proje ile ilgili geliştirme önerileriniz varsa katkıda bulunun!
 🌟 Eğer projeyi beğendiyseniz, GitHub’da ⭐ vererek destek olabilirsiniz!
+---
